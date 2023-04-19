@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'app-cenus-dev-nf-1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67024C76C904421D926E70E42A0EDB1A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA77C3330CF34FCCBA15E3B2B77E29E2 }}
           package: .
